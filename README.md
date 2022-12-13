@@ -3,4 +3,4 @@
 
 # Autor
 - Somin Park <parksomin419@gmail.com>
-- like cookie, movie
+- like cookie, movie, apple
